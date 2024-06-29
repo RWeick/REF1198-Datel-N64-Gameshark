@@ -11589,7 +11589,7 @@
 				)
 			)
 		)
-		(property "Value" "SST28LF040"
+		(property "Value" "SST29LE010"
 			(at 50.8 156.21 0)
 			(effects
 				(font
@@ -12084,7 +12084,7 @@
 				)
 			)
 		)
-		(property "Value" "SST28LF040"
+		(property "Value" "SST29LE010"
 			(at 52.07 29.21 0)
 			(effects
 				(font
